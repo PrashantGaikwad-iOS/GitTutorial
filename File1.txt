@@ -1,2 +1,2 @@
 File1 - This is an awesome file one.
-
+File1 is of text type
